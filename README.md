@@ -30,11 +30,6 @@ Welcome to **Tic-Tac-Toe with AI**! This project implements the classic game of 
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- 🌐 A modern web browser
 
 ### Playing the Game
 
@@ -59,8 +54,6 @@ Welcome to **Tic-Tac-Toe with AI**! This project implements the classic game of 
 
 - **Minimax Algorithm:**
   - The AI evaluates all possible moves to make the best decision, ensuring an unbeatable opponent.
-
-
 
 
 ---
